@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      Spice up your life!
+      People of the world... Spice up your life!
     </div>
   );
 }
